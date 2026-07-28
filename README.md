@@ -8,7 +8,7 @@ I enjoy writing clean, maintainable code, learning new technologies, and buildin
 
 ## Technologies
 
-Java, C#, Python, Lua/Luau, SQL & MySQL, Object-Oriented Programming, Data Structures, Git & GitHub, Linux
+Java, C#, Lua/Luau, MySQL, Data Structures, Git
 
 ## Currently Learning
 
