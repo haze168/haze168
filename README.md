@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-Hello, my name is Felipe, and welcome to my GitHub profile! I'm a 4th-semester Information Systems student from Brazil, with a strong interest in Backend Development and Software Engineering.
+Hello! My name is Felipe, and welcome to my GitHub profile. I'm a 4th-semester Information Systems student from Brazil, with a strong interest in Backend Development and Software Engineering.
 
 I'm currently building a solid foundation in Java, databases, and software engineering through academic and personal projects while continuously expanding my knowledge of the Java ecosystem.
 
